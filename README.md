@@ -40,4 +40,3 @@ To design and deploy an automated, end-to-end IT procurement solution within Ser
 * **Reports & Dashboards:**
   * Developed custom reports tracking total laptop requests, fulfillment SLA completion times, and pending approvals by department.
    * Once previewing completes with zero errors, click **Commit Update Set**.
-7. **Verification:** Navigate to **Service Catalog** > **Catalog Definitions** > **Items** and verify that the *Standard Laptop Order* item is published and active.
