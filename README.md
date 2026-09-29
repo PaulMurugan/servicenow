@@ -39,4 +39,3 @@ To design and deploy an automated, end-to-end IT procurement solution within Ser
   * Configured automated Email Notifications triggered at key milestones (Request Submitted, Approval Needed, Request Approved/Rejected, Laptop Dispatched).
 * **Reports & Dashboards:**
   * Developed custom reports tracking total laptop requests, fulfillment SLA completion times, and pending approvals by department.
-   * Once previewing completes with zero errors, click **Commit Update Set**.
