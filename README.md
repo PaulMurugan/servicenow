@@ -1,5 +1,4 @@
 # Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
-
 ## Project Title & Team Details
 * **Project Title:** Streamlining IT Procurement – Automating Standard Laptop Orders with Flow Designer
 * **Team Members:**
